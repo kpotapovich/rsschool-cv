@@ -1,0 +1,1 @@
+[https://kpotapovich.github.io/rsschool-cv/cv](https://kpotapovich.github.io/rsschool-cv/cv)
