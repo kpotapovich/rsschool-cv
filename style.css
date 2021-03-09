@@ -1,0 +1,73 @@
+.list_my {
+    max-width: 1042px;
+    margin: 0 auto;
+
+    font-family: 'Roboto', sans-serif;
+    background-color:beige;
+    text-align: justify;
+    color: black;
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+.img_icons {
+    height: 250px;
+    border-radius: 50px;
+
+}
+
+.header {
+    font-size: 16px;
+    margin: 30px 0;
+}
+
+.text_phone {
+    font-size: 19px;
+}
+
+.contact_info {
+    font-size: 19px;
+    font-family: 'Marmelad', sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: chocolate;
+}
+
+.text_name{
+    font-width: 700;
+}
+.item_text {
+    list-style-type: none;
+}
+
+
+.item_skill {
+    list-style-type: none;
+}
+
+
+.footer {
+    padding: 30px 0;
+    display: flex;
+    align-items: center;
+}
+
+.footer_info {
+    padding: 10px 5px 10px 5px;
+    font-size: 18px;
+    margin: 0;
+}
+
+.github {
+    width: 130px;
+    border-radius: 30px;
+    background-color: #39E24D;
+    padding: 10px 15px;
+    align-items: center;
+}
+
+.github:hover {
+    background-color: darkgreen;
+}
